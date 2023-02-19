@@ -61,6 +61,7 @@ header{
 }
 
 .header_section_perfil{
+    width: 50vw;
     display: flex;
     justify-content: center;
     margin-top: 70px;
@@ -68,7 +69,8 @@ header{
 }
 
 .header_section_perfil img{
-    width: 150px; 
+    height: 60vh;
+    border-radius: 100px;
 }
 
 .header_section_presentacion a{
